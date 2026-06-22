@@ -1,0 +1,10 @@
+{
+  "name": "trustgo",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix TRUCKNGO",
+    "build": "npm run build --prefix TRUCKNGO",
+    "preview": "npm run preview --prefix TRUCKNGO",
+    "install:app": "npm install --prefix TRUCKNGO"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+*.log
+.DS_Store
+TRUCKNGO/node_modules/
+TRUCKNGO/dist/
+TRUCKNGO/.env
